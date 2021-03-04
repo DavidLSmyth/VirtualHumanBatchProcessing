@@ -1,0 +1,1 @@
+blender -b --python example_scripts/format_conversion/obj_to_stl/obj_folder_to_stl.py -- -obj_folder sample_data/test_input/obj/ -stl_folder sample_data/test_output/stl/ -recursive True

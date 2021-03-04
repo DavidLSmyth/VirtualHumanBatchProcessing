@@ -1,0 +1,1 @@
+blender -b --python example_scripts/format_conversion/obj_to_ply/obj_to_ply.py -- -obj_file sample_data/test_input/obj/Business_Female_03#dodging_right#frame010.obj -ply_file sample_data/test_output/ply/Business_Female_03#dodging_right#frame010.ply

@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\3dGeom\PifuFBXMeshesAdults\angry\Female_Adult_05TPose#angry#start_frame001#end_frame513.fbx
+C:\Users\admin\Documents\3dGeom\PifuFBXMeshesAdults\angry\Female_Adult_01TPose#angry#start_frame001#end_frame513.fbx
+C:\Users\admin\Documents\3dGeom\PifuFBXMeshesAdults\angry\Female_Adult_06TPose#angry#start_frame001#end_frame513.fbx
+C:\Users\admin\Documents\3dGeom\PifuFBXMeshesProfessions\defeated\Pilot_Male_03TPose#defeated#start_frame001#end_frame192.fbx

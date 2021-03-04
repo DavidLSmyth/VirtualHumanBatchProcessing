@@ -1,0 +1,1 @@
+blender -b --python example_scripts/animation_retargeting/rocketbox_with_mixamo/retarget_animation_export_mesh_frames_cmd_line.py -- --output_folder ./sample_data/test_output/obj ./sample_data/test_input/fbx/Capoeira.fbx ./sample_data/test_input/fbx/aj.fbx .obj --frames 4 12 56 43

@@ -1,0 +1,1 @@
+blender -b --python example_scripts/format_conversion/fbx_to_obj/fbx_to_obj_specific_frames.py -- -fbx_file sample_data/test_input/fbx/Capoeira.fbx -obj_folder sample_data/test_output/obj/ -frames 1 5 88

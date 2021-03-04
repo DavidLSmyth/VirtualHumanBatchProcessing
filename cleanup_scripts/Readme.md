@@ -1,0 +1,1 @@
+This contains some scripts that clean up artifacts when converting, retargeting etc.

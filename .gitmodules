@@ -1,0 +1,3 @@
+[submodule "blender_cli_rendering"]
+	path = blender_cli_rendering
+	url = https://github.com/DavidLSmyth/blender_cli_rendering

@@ -1,0 +1,1 @@
+blender -b --python example_scripts/format_conversion/bvh_to_fbx/bvh_to_fbx_all_frames.py -- -fbx_file sample_data/test_output/fbx/13_39.fbx -bvh_file sample_data/test_input/bvh/13_39.bvh

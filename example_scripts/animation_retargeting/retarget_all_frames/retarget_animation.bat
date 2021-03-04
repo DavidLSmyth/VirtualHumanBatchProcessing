@@ -1,0 +1,1 @@
+blender -b --python example_scripts/animation_retargeting/retarget_all_frames/retarget_animation_cmd_line.py -- --output_folder ./sample_data/test_output/fbx --armature_files ./sample_data/test_input/fbx/aj.fbx --animation_files ./sample_data/test_input/fbx/Capoeira.fbx .fbx
